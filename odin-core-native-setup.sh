@@ -21,6 +21,7 @@ source ~/.profile
 #export PATH=${PATH}:${GOROOT}/bin:${GOBIN}
 #" >> ~/.bashrc
 #source ~/.bashrc
+cd ~/
 git clone https://github.com/GeoDB-Limited/odin-core.git
 cd odin-core
 git fetch --tags
